@@ -1,4 +1,3 @@
-# Prash
-This is my 1st repository 
+PharmaSathi-AI
 <br>
-Author -Prashik
+AI-powered multilingual medicine assistant
